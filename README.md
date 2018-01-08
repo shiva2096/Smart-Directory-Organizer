@@ -1,9 +1,13 @@
 # Smart-Directory-Organizer
-This project is used to organize your files in Directories in Personalized Order using Machine Learning.
+This project organizes your files in Directories in Personalized Order using Machine Learning.
 
 ## Features
 - First this program learns how you organize files on your Desktop (This makes it Personalized)
 - Then it can predicts the Directory for the new files with **75 % Accuracy** 
+
+## Prerequisites
+- Tensorflow
+- Numpy
 
 ## How to run ?
 - To Train the Model Run --> **runMeForTraining.py**

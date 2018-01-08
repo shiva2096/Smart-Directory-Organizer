@@ -38,6 +38,8 @@ I used 3 features to predict the correct directory of a File; its Name,Extension
 - Trained the model for **2000 Iterations to acheive 81% training accuracy**
 - Training took about **30 Minutes**
 
+![alt text](https://github.com/shiva2096/Smart-Directory-Organizer/blob/master/TrainingImage.JPG "Training Image")
+
 ### 4) Prediction
 - Give the full directory path for your file to **runMeForClassification.py**
 - It will Output the Predicted Directory Name

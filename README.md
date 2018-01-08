@@ -35,7 +35,7 @@ I used 3 features to predict the correct directory of a File; its Name,Extension
 
 ### 3) Training
 - Used Tensorflow to create a 3 Layered Neural Network
-- Trained the model for **2000 Iterations to acheive 81% training accuracy**
+- Trained the model for **2000 Iterations to achieve 81% training accuracy**
 - Training took about **30 Minutes**
 
 ![alt text](https://github.com/shiva2096/Smart-Directory-Organizer/blob/master/TrainingImage.JPG "Training Image")

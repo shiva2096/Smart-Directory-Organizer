@@ -26,6 +26,7 @@ I used 3 features to predict the correct directory of a File; its Name,Extension
 - Then from these File Names, I created a vocabulary containing all the unique words in the File Name after processsing it.
 - Each word in the dictonary was a feature. (Thus a word is present in file name then that feature value is set 1 otherwise 0)
 - Similarly a Vocabulary of all unique Extensions was also created.
+
 **Thus Feature Vector will be of size :  no of words in Vocab + no of words in extension Vocab + 1 (For file size)**
 
 ### 3) Training
